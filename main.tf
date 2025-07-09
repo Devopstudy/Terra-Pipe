@@ -20,6 +20,6 @@ resource "azurerm_resource_group" "rg-update" {
 }
 
 resource "azurerm_resource_group" "raja_2" {
-  name     = "rg-update_2"
+  name     = "raja_2"
   location = "central india"
 }
