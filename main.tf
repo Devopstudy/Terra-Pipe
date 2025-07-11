@@ -13,8 +13,8 @@ provider "azurerm" {
 }
 
 
-resource "azurerm_resource_group" "raja_2" {
-  name     = "raja_2"
+resource "azurerm_resource_group" "mickey" {
+  name     = "mickey"
   location = "central india"
 }
 
